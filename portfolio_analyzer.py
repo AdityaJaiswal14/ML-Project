@@ -60,7 +60,7 @@ st.markdown(
 st.markdown(
     """
     <div class="project-title">Multi-Dimensional Portfolio Risk and Performance Analysis</div>
-    <div class="project-by">Project by Arham Shah</div>
+    <div class="project-by">Project by Aditya Jaiswal C006, Arham Shah C015, Anay Narayanan C011</div>
     """,
     unsafe_allow_html=True
 )
@@ -921,11 +921,8 @@ email_icon = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
 st.sidebar.markdown(
     f"""
     <div style="display: flex; justify-content: space-evenly; align-items: center;">
-        <a href="https://github.com/arham7s" target="_blank">
+        <a href="https://github.com/AdityaJaiswal14" target="_blank">
             <img src="{github_icon}" width="30">
-        </a>
-        <a href="mailto:arhamshahwork@gmail.com" target="_blank">
-            <img src="{email_icon}" width="30">
         </a>
     </div>
     """,
@@ -941,13 +938,9 @@ st.markdown(
     <h1 style="text-align: center; margin-top: 20px;">Contact Me</h1>
 
     <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-        <a href="https://github.com/arham7s" target="_blank" style="margin-right: 15px;">
+        <a href="https://github.com/AdityaJaiswal14" target="_blank" style="margin-right: 15px;">
             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub">
-        </a>
-        <a href="mailto:arhamshahwork@gmail.com" target="_blank" style="margin-right: 15px;">
-            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" title="Email">
-        </a>
-        
+        </a>       
     </div>
     <p style="text-align: center; font-size: 16px; margin-top: 10px;">Feel free to connect with me on any of the platforms above!</p>
     """,
